@@ -1,0 +1,1 @@
+print("To program pierwszy xD")
